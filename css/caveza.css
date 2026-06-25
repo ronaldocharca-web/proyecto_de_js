@@ -1,0 +1,80 @@
+
+#cabeza
+{ display: flex;
+   position: relative;
+   left: 510px;
+}
+
+#caveza{
+    background-color: saddlebrown;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+   
+
+}
+#ojo1{
+    background-color: rgb(56, 26, 4);
+    width: 40px;
+    height: 40px;
+    border-radius: 100px;
+    position: relative;
+    right: -90px;
+    top: 20px;
+
+}
+#punto{
+    background-color: rgb(255, 255, 255);
+    width: 5px;
+    height: 5px;
+    border-radius: 100px;
+    position: relative;
+    right: -14px;
+    top: 10px;
+}
+#ojo2{
+    background-color: rgb(107, 73, 48);
+    width: 40px;
+    height: 40px;
+    border-radius: 100px;
+    position: relative;
+    right: -46px;
+    top: -20px;
+    
+}
+
+#voca{
+    background-color: rgb(158, 118, 89);
+    width: 50px;
+    height: 30px;
+    border-radius: 100px;
+    position: relative;
+    right: -74px;
+    
+}
+
+
+
+#un{
+    background-color: aqua;
+  
+}
+
+.d2{
+    
+    padding-left: 400px;
+    font-size: 10px ;  
+    display: flex;
+    flex-direction:row;
+    
+}
+#d22{
+    margin: 20px;
+    padding: 20px;
+    width: 200px;
+    background-color: red;
+}
+.d33{
+    width: 600px;
+    margin-left: 450px;
+}

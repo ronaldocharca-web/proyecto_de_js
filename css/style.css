@@ -1,0 +1,44 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color: aquamarine;
+}
+#un{
+    background-color: aqua;
+  
+}
+
+.d2{
+    
+    padding-left: 400px;
+    font-size: 10px ;  
+    display: flex;
+    flex-direction:row;
+    
+}
+#d22{
+    margin: 20px;
+    padding: 20px;
+    width: 200px;
+    background-color: red;
+}
+.d33{
+    width: 600px;
+    margin-left: 450px;
+}
+.cc1
+{
+    display: flexs;
+    flex-direction: row-reverse;
+    justify-content: center;
+    background-color: brown;
+}
+#cc1
+{
+    display: flexs;
+    flex-direction: row-reverse;
+    justify-content: center;
+    background-color: brown;
+}
